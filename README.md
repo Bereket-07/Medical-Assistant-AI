@@ -11,3 +11,7 @@ this chat bot will assist on medical based questions
 ```bash
  .venv\scripts\activate
 ```
+
+```bash
+pip install -r requirements.txt
+```
